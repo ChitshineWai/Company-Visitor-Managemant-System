@@ -30,7 +30,7 @@ Company-Visitor-Managemant-System is a [DBMS project] with both admin .
 
 12. first register and then login
 
-13. admin login details  username = mgmg and Password=1234.
+13. admin login details  username = admin@gmail.com and Password=1234.
 
 # Screenshots
 ![Image of adduser](https://github.com/ChitshineWai/Company-Visitor-Managemant-System/blob/master/admin/cvms.png)
